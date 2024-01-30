@@ -9,7 +9,7 @@
 #### Support vector  
 #### k-Nearest Neighbors   
 #### Gradient boosting  
-#### MLP 
+#### Multi-layer Perception 
 
 ## Description
 Various topics in regression are covered to provide a summary
